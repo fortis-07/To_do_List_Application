@@ -2,7 +2,11 @@
 
 Cascading Style Sheets (CSS) is a cornerstone technology in web development, used to control the presentation of HTML documents. While HTML defines the structure of web content, CSS provides the visual and aesthetic components, allowing developers to create visually engaging and user-friendly websites.
 
-What is CSS?
+
+![image](https://github.com/user-attachments/assets/6ca03246-4624-4f4c-ab64-7069b16c638a)
+
+
+**What is CSS?**
 CSS is a stylesheet language used to describe the presentation of web pages. It enables developers to specify styles, such as colors, fonts, spacing, and layout, which are applied to HTML elements. This separation of structure (HTML) and style (CSS) allows for cleaner code, easier maintenance, and greater flexibility in designing web applications.
 
 How CSS Works
@@ -15,9 +19,11 @@ selector {
     property: value;
 }
 ```
+
 - Selector: Targets the HTML element to which the style will be applied.
 - Property: Specifies the aspect of the element to be styled (e.g., color, font-size).
 - Value: Defines how the property should be applied (e.g., blue, 16px).
+  
 Example:
 
 ```
